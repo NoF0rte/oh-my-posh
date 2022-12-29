@@ -10,11 +10,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jandedobbeleer/oh-my-posh/color"
-	"github.com/jandedobbeleer/oh-my-posh/platform"
-	"github.com/jandedobbeleer/oh-my-posh/properties"
-	"github.com/jandedobbeleer/oh-my-posh/segments"
-	"github.com/jandedobbeleer/oh-my-posh/template"
+	"github.com/NoF0rte/oh-my-posh/color"
+	"github.com/NoF0rte/oh-my-posh/platform"
+	"github.com/NoF0rte/oh-my-posh/properties"
+	"github.com/NoF0rte/oh-my-posh/segments"
+	"github.com/NoF0rte/oh-my-posh/template"
 
 	"github.com/gookit/config/v2"
 	"github.com/gookit/config/v2/json"

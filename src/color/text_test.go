@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/jandedobbeleer/oh-my-posh/mock"
-	"github.com/jandedobbeleer/oh-my-posh/platform"
-	"github.com/jandedobbeleer/oh-my-posh/shell"
-	"github.com/jandedobbeleer/oh-my-posh/template"
+	"github.com/NoF0rte/oh-my-posh/mock"
+	"github.com/NoF0rte/oh-my-posh/platform"
+	"github.com/NoF0rte/oh-my-posh/shell"
+	"github.com/NoF0rte/oh-my-posh/template"
 
 	"github.com/stretchr/testify/assert"
 )

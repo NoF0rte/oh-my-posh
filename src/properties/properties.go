@@ -3,8 +3,8 @@ package properties
 import (
 	"fmt"
 
-	"github.com/jandedobbeleer/oh-my-posh/color"
-	"github.com/jandedobbeleer/oh-my-posh/regex"
+	"github.com/NoF0rte/oh-my-posh/color"
+	"github.com/NoF0rte/oh-my-posh/regex"
 )
 
 type Properties interface {

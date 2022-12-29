@@ -5,9 +5,9 @@ import (
 	"math"
 	"time"
 
-	"github.com/jandedobbeleer/oh-my-posh/http"
-	"github.com/jandedobbeleer/oh-my-posh/platform"
-	"github.com/jandedobbeleer/oh-my-posh/properties"
+	"github.com/NoF0rte/oh-my-posh/http"
+	"github.com/NoF0rte/oh-my-posh/platform"
+	"github.com/NoF0rte/oh-my-posh/properties"
 )
 
 // StravaAPI is a wrapper around http.Oauth

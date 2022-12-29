@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/jandedobbeleer/oh-my-posh/platform"
-	"github.com/jandedobbeleer/oh-my-posh/properties"
+	"github.com/NoF0rte/oh-my-posh/platform"
+	"github.com/NoF0rte/oh-my-posh/properties"
 )
 
 type Nx struct {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/jandedobbeleer/oh-my-posh/mock"
-	"github.com/jandedobbeleer/oh-my-posh/platform"
+	"github.com/NoF0rte/oh-my-posh/mock"
+	"github.com/NoF0rte/oh-my-posh/platform"
 
 	"github.com/stretchr/testify/assert"
 )
