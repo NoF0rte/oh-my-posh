@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/platform"
-	"github.com/jandedobbeleer/oh-my-posh/src/template"
+	"github.com/NoF0rte/oh-my-posh/src/platform"
+	"github.com/NoF0rte/oh-my-posh/src/template"
 )
 
 //go:embed scripts/omp.ps1

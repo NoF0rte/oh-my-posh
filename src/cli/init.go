@@ -3,9 +3,9 @@ package cli
 import (
 	"fmt"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/engine"
-	"github.com/jandedobbeleer/oh-my-posh/src/platform"
-	"github.com/jandedobbeleer/oh-my-posh/src/shell"
+	"github.com/NoF0rte/oh-my-posh/src/engine"
+	"github.com/NoF0rte/oh-my-posh/src/platform"
+	"github.com/NoF0rte/oh-my-posh/src/shell"
 
 	"github.com/spf13/cobra"
 )

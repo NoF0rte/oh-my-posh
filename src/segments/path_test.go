@@ -4,11 +4,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/mock"
-	"github.com/jandedobbeleer/oh-my-posh/src/platform"
-	"github.com/jandedobbeleer/oh-my-posh/src/properties"
-	"github.com/jandedobbeleer/oh-my-posh/src/shell"
-	"github.com/jandedobbeleer/oh-my-posh/src/template"
+	"github.com/NoF0rte/oh-my-posh/src/mock"
+	"github.com/NoF0rte/oh-my-posh/src/platform"
+	"github.com/NoF0rte/oh-my-posh/src/properties"
+	"github.com/NoF0rte/oh-my-posh/src/shell"
+	"github.com/NoF0rte/oh-my-posh/src/template"
 
 	"github.com/stretchr/testify/assert"
 	mock2 "github.com/stretchr/testify/mock"

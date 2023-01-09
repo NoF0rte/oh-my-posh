@@ -1,6 +1,6 @@
 package template
 
-import "github.com/jandedobbeleer/oh-my-posh/src/regex"
+import "github.com/NoF0rte/oh-my-posh/src/regex"
 
 func matchP(pattern, text string) bool {
 	return regex.MatchString(pattern, text)

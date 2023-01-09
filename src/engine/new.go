@@ -1,9 +1,9 @@
 package engine
 
 import (
-	"github.com/jandedobbeleer/oh-my-posh/src/ansi"
-	"github.com/jandedobbeleer/oh-my-posh/src/platform"
-	"github.com/jandedobbeleer/oh-my-posh/src/shell"
+	"github.com/NoF0rte/oh-my-posh/src/ansi"
+	"github.com/NoF0rte/oh-my-posh/src/platform"
+	"github.com/NoF0rte/oh-my-posh/src/shell"
 )
 
 // New returns a prompt engine initialized with the

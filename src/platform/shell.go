@@ -19,10 +19,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/log"
-	"github.com/jandedobbeleer/oh-my-posh/src/platform/battery"
-	"github.com/jandedobbeleer/oh-my-posh/src/platform/cmd"
-	"github.com/jandedobbeleer/oh-my-posh/src/regex"
+	"github.com/NoF0rte/oh-my-posh/src/log"
+	"github.com/NoF0rte/oh-my-posh/src/platform/battery"
+	"github.com/NoF0rte/oh-my-posh/src/platform/cmd"
+	"github.com/NoF0rte/oh-my-posh/src/regex"
 
 	process "github.com/shirou/gopsutil/v3/process"
 )
@@ -575,7 +575,7 @@ func (env *Shell) Shell() string {
 	}
 	env.Debug("Shell", "process name: "+name)
 	// this is used for when scoop creates a shim, see
-	// https://github.com/jandedobbeleer/oh-my-posh/issues/2806
+	// https://github.com/NoF0rte/oh-my-posh/issues/2806
 	executable, _ := os.Executable()
 	if name == "cmd.exe" || name == executable {
 		p, _ = p.Parent()

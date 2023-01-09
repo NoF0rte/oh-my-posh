@@ -4,8 +4,8 @@ import (
 	"errors"
 	"path"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/platform"
-	"github.com/jandedobbeleer/oh-my-posh/src/properties"
+	"github.com/NoF0rte/oh-my-posh/src/platform"
+	"github.com/NoF0rte/oh-my-posh/src/properties"
 
 	"gopkg.in/ini.v1"
 )

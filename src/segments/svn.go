@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/regex"
+	"github.com/NoF0rte/oh-my-posh/src/regex"
 )
 
 // SvnStatus represents part of the status of a Svn repository

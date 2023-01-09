@@ -5,10 +5,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/ansi"
-	"github.com/jandedobbeleer/oh-my-posh/src/platform"
-	"github.com/jandedobbeleer/oh-my-posh/src/shell"
-	"github.com/jandedobbeleer/oh-my-posh/src/template"
+	"github.com/NoF0rte/oh-my-posh/src/ansi"
+	"github.com/NoF0rte/oh-my-posh/src/platform"
+	"github.com/NoF0rte/oh-my-posh/src/shell"
+	"github.com/NoF0rte/oh-my-posh/src/template"
 )
 
 type Engine struct {
@@ -303,7 +303,7 @@ func (e *Engine) print() string {
 			break
 		}
 		// in bash, the entire rprompt needs to be escaped for the prompt to be interpreted correctly
-		// see https://github.com/jandedobbeleer/oh-my-posh/pull/2398
+		// see https://github.com/NoF0rte/oh-my-posh/pull/2398
 		writer := &ansi.Writer{}
 		writer.Init(shell.GENERIC)
 		prompt := writer.SaveCursorPosition()

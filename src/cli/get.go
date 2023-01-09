@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/ansi"
-	"github.com/jandedobbeleer/oh-my-posh/src/platform"
+	"github.com/NoF0rte/oh-my-posh/src/ansi"
+	"github.com/NoF0rte/oh-my-posh/src/platform"
 
 	color2 "github.com/gookit/color"
 	"github.com/spf13/cobra"

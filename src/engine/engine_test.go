@@ -4,10 +4,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/ansi"
-	"github.com/jandedobbeleer/oh-my-posh/src/mock"
-	"github.com/jandedobbeleer/oh-my-posh/src/platform"
-	"github.com/jandedobbeleer/oh-my-posh/src/shell"
+	"github.com/NoF0rte/oh-my-posh/src/ansi"
+	"github.com/NoF0rte/oh-my-posh/src/mock"
+	"github.com/NoF0rte/oh-my-posh/src/platform"
+	"github.com/NoF0rte/oh-my-posh/src/shell"
 
 	"github.com/stretchr/testify/assert"
 )

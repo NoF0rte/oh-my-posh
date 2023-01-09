@@ -2,7 +2,7 @@
 
 package ansi
 
-import "github.com/jandedobbeleer/oh-my-posh/src/platform"
+import "github.com/NoF0rte/oh-my-posh/src/platform"
 
 func GetAccentColor(env platform.Environment) (*RGB, error) {
 	return nil, &platform.NotImplemented{}

@@ -1,4 +1,4 @@
-module github.com/jandedobbeleer/oh-my-posh/src
+module github.com/NoF0rte/oh-my-posh/src
 
 go 1.19
 

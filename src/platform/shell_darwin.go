@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/regex"
+	"github.com/NoF0rte/oh-my-posh/src/regex"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/platform/battery"
+	"github.com/NoF0rte/oh-my-posh/src/platform/battery"
 )
 
 func mapMostLogicalState(state string) battery.State {

@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/platform"
+	"github.com/NoF0rte/oh-my-posh/src/platform"
 
 	"github.com/spf13/cobra"
 )

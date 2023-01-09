@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/platform/cmd"
-	"github.com/jandedobbeleer/oh-my-posh/src/regex"
+	"github.com/NoF0rte/oh-my-posh/src/platform/cmd"
+	"github.com/NoF0rte/oh-my-posh/src/regex"
 )
 
 func mapMostLogicalState(state string) State {

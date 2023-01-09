@@ -3,8 +3,8 @@ package cli
 import (
 	"fmt"
 
-	"github.com/jandedobbeleer/oh-my-posh/src/font"
-	"github.com/jandedobbeleer/oh-my-posh/src/platform"
+	"github.com/NoF0rte/oh-my-posh/src/font"
+	"github.com/NoF0rte/oh-my-posh/src/platform"
 
 	"github.com/spf13/cobra"
 )
